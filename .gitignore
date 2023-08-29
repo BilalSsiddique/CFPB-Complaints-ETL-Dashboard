@@ -1,3 +1,4 @@
-# created by virtualenv automatically
-airflow_env/
-
+scripts/cfbp-etl-2fea04d28428.json
+scripts/__pycache__
+dags/__pycache__
+/airflow_etl_env
